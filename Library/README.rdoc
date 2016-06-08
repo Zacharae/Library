@@ -1,3 +1,9 @@
+ok, hi
+this is a library program 
+ruby 2.3.1
+rails 4.2.6
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
